@@ -7,11 +7,9 @@ const TaskCardTitle = () => {
 
     const handleClick = () => {
         setIsClick(true);
-        console.log(isClick);
     }
 
     const handleChange = (e) => {
-        // eがよくわからん
         setInputCardTitle(e.target.value) 
     }
 

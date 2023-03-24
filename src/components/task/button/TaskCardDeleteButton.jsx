@@ -1,11 +1,13 @@
-import React from 'react'
+// import React from 'react'
 
-const TaskCardDeleteButton = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+// const TaskCardDeleteButton = (Object) => {
+//   return (
+//     <div>
+//       <button className='taskCardDeleteButton' onClick={() => taskCardDeleteButton(Object)}>
+//         <i className="fa-solid fa-xmark"></i>
+//       </button>
+//     </div>
+//   )
+// }
 
-export default TaskCardDeleteButton
+// export default TaskCardDeleteButton
